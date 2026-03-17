@@ -1,0 +1,16 @@
+# Arquivo de configuração com a API KEY (O MAIS IMPORTANTE)
+.env
+
+# Pastas de ambiente virtual (onde ficam as bibliotecas instaladas)
+venv/
+.venv/
+env/
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+
+# Arquivos do VS Code ou PyCharm
+.vscode/
+.idea/
